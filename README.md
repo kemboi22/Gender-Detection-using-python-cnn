@@ -11,3 +11,6 @@ Download the following dependencies
 6. cv2 - pip install opencv (cannot be installed using conda)
 7. Matplotlib - pip install matplotlib or conda install -c conda-forge matplotlib(if using anaconda)
 8. scikit-learn - pip install scikit-learn and pip install scikit-learn-intelex or conda install scikit-learn and conda install scikit-learn-intelex
+
+
+DATASET IS FOUND IN THE URL BELOW.
