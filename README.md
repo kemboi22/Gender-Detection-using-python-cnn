@@ -14,3 +14,4 @@ Download the following dependencies
 
 
 DATASET IS FOUND IN THE URL BELOW.
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
